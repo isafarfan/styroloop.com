@@ -198,13 +198,13 @@ button:focus {
         font-weight: 500;
         line-height: 80px;
         text-transform: uppercase;
-        color: #ffffff;
+        color: #003459;
         padding: 0px;
         display: inline-block; }
         .header_area .navbar .nav .nav-item .nav-link:after {
           display: none; }
       .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
-        color: #60bc0f; }
+        color: #1b9aaa; }
       .header_area .navbar .nav .nav-item.submenu {
         position: relative; }
         .header_area .navbar .nav .nav-item.submenu ul {
@@ -251,7 +251,7 @@ button:focus {
             transition: all 0.4s linear; }
             .header_area .navbar .nav .nav-item.submenu ul .nav-item .nav-link {
               line-height: 45px;
-              color: #222222;
+              color: #7c90a0;
               padding: 0px 30px;
               transition: all 150ms linear;
               display: block;
@@ -260,7 +260,7 @@ button:focus {
             .header_area .navbar .nav .nav-item.submenu ul .nav-item:last-child {
               border-bottom: none; }
             .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
-              background: #60bc0f;
+              background: #7c90a0;
               color: #fff; }
         @media (min-width: 992px) {
           .header_area .navbar .nav .nav-item.submenu:hover ul {
@@ -277,7 +277,7 @@ button:focus {
     top: -70px;
     left: 0;
     right: 0;
-    background: #222222;
+    background: #ffffff;
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
     -webkit-transition: transform 500ms ease, background 500ms ease;
@@ -293,7 +293,7 @@ button:focus {
   z-index: 1;
   min-height: 900px;
   display: flex;
-  background: linear-gradient(rgba(3, 1, 10, 0.5), rgba(3, 1, 10, 0.5)), url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+  background: url("../new_img/banner_blue.jpg") no-repeat scroll center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%;
@@ -309,7 +309,7 @@ button:focus {
       .home_banner_area .banner_inner .banner_content .upper_text {
         font-size: 50px;
         text-transform: uppercase;
-        color: #fdbb00; }
+        color: #ff813d; }
         @media (max-width: 767px) {
           .home_banner_area .banner_inner .banner_content .upper_text {
             font-size: 35px; } }
@@ -322,7 +322,7 @@ button:focus {
         line-height: 70px;
         text-transform: uppercase;
         margin-bottom: 20px; }
-      .home_banner_area .banner_inner .banner_content p {
+      .home_banner_area .banner_inner .banner_content h5 {
         color: #f9f9ff;
         max-width: 680px;
         margin: 0px auto 45px; }
@@ -343,7 +343,7 @@ button:focus {
     background: transparent;
     z-index: 1; }
     .banner_area .banner_inner .overlay {
-      background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)), url(../img/banner/banner.jpg) no-repeat scroll center center;
+      background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)), url("../new_img/banner_blue.jpg") no-repeat scroll center center;
       background-size: cover;
       position: absolute;
       left: 0;
