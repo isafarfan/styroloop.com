@@ -293,7 +293,7 @@ button:focus {
   z-index: 1;
   min-height: 900px;
   display: flex;
-  background: url("../new_img/banner_blue.jpg") no-repeat scroll center center;
+  background: url("../new_img/styrofront.jpg") no-repeat scroll center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%;
@@ -343,7 +343,7 @@ button:focus {
     background: transparent;
     z-index: 1; }
     .banner_area .banner_inner .overlay {
-      background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)), url("../new_img/banner_blue.jpg") no-repeat scroll center center;
+      background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)), url("../new_img/styrofront.jpg") no-repeat scroll center center;
       background-size: cover;
       position: absolute;
       left: 0;
