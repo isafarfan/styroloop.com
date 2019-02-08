@@ -293,7 +293,7 @@ button:focus {
   z-index: 1;
   min-height: 900px;
   display: flex;
-  background: url("../new_img/styrofront.jpg") no-repeat scroll center center;
+  background: url("../new_img/styrosplash.jpg") no-repeat scroll center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%;
@@ -334,22 +334,22 @@ button:focus {
 .banner_area {
   position: relative;
   z-index: 1;
-  min-height: 500px; }
+  min-height: 1080px; }
   .banner_area .banner_inner {
     position: relative;
-    overflow: hidden;
+    
     width: 100%;
     min-height: 500px;
     background: transparent;
     z-index: 1; }
     .banner_area .banner_inner .overlay {
-      background: url("../new_img/styrofront.jpg") no-repeat scroll center center;
+      background: url("../new_img/styrosplash.jpg") no-repeat scroll center center;
       background-size: cover;
       position: absolute;
       left: 0;
       right: 0;
-      top: 0;
-      height: 150%;
+      top: 170px;
+      height: 100%;
       bottom: 0;
       z-index: -1;
       opacity: 1; }
