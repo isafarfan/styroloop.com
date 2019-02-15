@@ -39,6 +39,7 @@
 		cursor: pointer;
 		margin-top: 27px;
 		margin-bottom: 23px;
+		color:000000;
 	}
 	.header_area {
 		background: #ffffff;
@@ -63,7 +64,7 @@
 		display: block;
 		width: 25px;
 		height: 3px;
-		background: #fff;
+		background: #003459;
 		margin: auto;
 		margin-bottom: 4px;
 		transition: all 400ms linear;
