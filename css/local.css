@@ -6,6 +6,7 @@
 .banner_content h5 {
 	margin: 0 !important;
 	max-width: 512px !important;
+  color:#fff !important;
 }
 
 .banner_area .banner_inner .banner_content h2 {
@@ -22,3 +23,6 @@
       text-align: left !important;
       margin-bottom: 24px; 
   }
+
+ 
+  
