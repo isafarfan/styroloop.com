@@ -3,6 +3,15 @@
 	max-width: 512px !important;
 }
 
+.banner_content a {
+  color: #ff813d;
+  font-size: 18px;
+}
+
+.banner_content a:hover, a:active {
+  color: #fff;
+}
+
 .banner_content h5 {
 	margin: 0 !important;
 	max-width: 512px !important;
@@ -28,5 +37,7 @@
     padding-top: 100px;
     padding-bottom: 120px;
   }
+
+
  
   
